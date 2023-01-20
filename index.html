@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coding Jobs</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Jobs</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <h1 style="margin-left: 14px;">Welcome to Coding Jobs</h1>
+    <p style="margin-left: 14px;">Here you can find the latest job openings.</p>
+    
+    <div id="filter-container" style="margin-left: 14px; margin-bottom: 16px;">
+      <label for="location-filter">Filter by Location:</label>
+      <select id="location-filter">
+        <option value="all">All</option>
+        <option value="New York, NY">New York, NY</option>
+        <option value="San Francisco, CA">San Francisco, CA</option>
+        <option value="Seattle, WA">Seattle, WA</option>
+        <option value="Boston, MA">Boston, MA</option>
+        <option value="Houston, TX">Houston, TX</option>
+      </select>
+    </div>    
+    
+    <div class="job-list-grid" id="job-list"></div>
+
+    <script src='app.js'></script>
+  </main>
+  
+  <footer>
+    <p style="margin-left: 14px;">Copyright ©2023 Coding Jobs</p>
+  </footer>
+</body>
+</html>

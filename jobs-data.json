@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "title": "Full Stack Developer",
+      "company": "Acme Inc.",
+      "location": "New York, NY",
+      "description": "We are looking for a full stack developer to join our team. The ideal candidate will have experience with JavaScript, React, and Node.js.",
+      "salary": "100,000-120,000"
+    },
+    {
+      "title": "Java Developer",
+      "company": "Beta Corp.",
+      "location": "San Francisco, CA",
+      "description": "We are seeking a Java developer to help build and maintain our enterprise applications. Strong experience with Spring and Hibernate is a must.",
+      "salary": "90,000-110,000"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Gamma LLC.",
+      "location": "Seattle, WA",
+      "description": "We are looking for a DevOps engineer to help us automate and optimize our infrastructure. Experience with AWS and Docker is a plus.",
+      "salary": "120,000-140,000"
+    },
+    {
+      "title": "Front End Developer",
+      "company": "Delta Inc.",
+      "location": "Boston, MA",
+      "description": "We are looking for a front end developer to join our team. Strong experience with HTML, CSS and JavaScript is required.",
+      "salary": "80,000-100,000"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Epsilon LLC.",
+      "location": "Houston, TX",
+      "description": "We are seeking a data engineer to help us design, build and maintain our data pipelines. Experience with big data technologies such as Hadoop and Spark is a plus.",
+      "salary": "120,000-140,000"
+    }
+  ]
+}
+
